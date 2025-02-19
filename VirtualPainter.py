@@ -4,11 +4,11 @@ import time
 import os
 import HandTrackingModule as htm
 
-brushThickness = 15
+brushThickness = 1
 eraserThickness = 50
 xp, yp = 0, 0
 
-folderPath = "Header-Files"
+folderPath = "Header-Files rakesh"
 myList = os.listdir(folderPath)
 # print(myList)
 overlayList = []
