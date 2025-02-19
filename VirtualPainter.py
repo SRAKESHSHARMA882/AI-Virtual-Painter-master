@@ -8,7 +8,7 @@ brushThickness = 1
 eraserThickness = 50
 xp, yp = 0, 0
 
-folderPath = "Header-Files rakesh"
+folderPath = "Header-Files"
 myList = os.listdir(folderPath)
 # print(myList)
 overlayList = []
